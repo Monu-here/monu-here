@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MOnu Kumar Thakur</h1>
+<h1 align="center">Hi 👋, I'm Monu Kumar Thakur</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
 
