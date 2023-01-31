@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monu Kumar Thakur</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate Web developer from Nepal</h3>
 
 
 <img align="right" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Dream_job](dreamjob-monu-here.vercel.app/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on [C_S_E](https://cse.prabin.tech/)
 
