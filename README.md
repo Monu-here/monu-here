@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👯 I’m looking to collaborate on [C_S_E](https://cse.prabin.tech/)
+- 👯 I’m looking to collaborate on [Need TechSoft]()
 
 - 👨‍💻 All of my projects are available at [https://monukumar.netlify.app/](https://monukumar.netlify.app/)
 
