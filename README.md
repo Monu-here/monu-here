@@ -44,4 +44,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=monu-here&theme=react-dark&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" />
 </p>
 
-https://github-profile-trophy.vercel.app/?username=monu-here&theme=github
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=monu-here&theme=github">
+</p>
