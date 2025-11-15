@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Need TechnoSoft](http://needtechnosoft.com.np/)
 
-- 👨‍💻 My Profile [https://monukumar.netlify.app/](http://monukumar.com.np/)
+- 👨‍💻 My Profile [Monu](http://monukumar.com.np/)
 
 - 📫 How to reach me **tmonu995@gmail.com / monukumarhere12@gmail.com**
 
